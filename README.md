@@ -42,14 +42,14 @@ workout_routine_optimizer/
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/workout_routine_optimizer.git
+git clone https://github.com/alexatkaki/workout_routine_optimizer.git
 cd workout_routine_optimizer
 
-2. Create and activate a virtual environment:
+3. Create and activate a virtual environment:
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-3. Install the required packages:
+4. Install the required packages:
 
 pip install -r requirements.txt
 
