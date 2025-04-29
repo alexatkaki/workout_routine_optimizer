@@ -1,0 +1,861 @@
+{
+    "exercises": [
+      {
+        "id": "push_1",
+        "name": "Wall Push-up",
+        "description": "Push-up performed standing against a wall",
+        "progression_level": "1",
+        "category": "Upper Body",
+        "muscle_groups": ["Chest", "Triceps", "Shoulders"],
+        "equipment": "Bodyweight",
+        "instructions": [
+          "1. Stand facing a wall at arm's length",
+          "2. Place palms flat against the wall at shoulder height and width",
+          "3. Bend elbows to bring chest toward the wall",
+          "4. Push back to starting position",
+          "5. Maintain a straight line from head to heels throughout"
+        ],
+        "media": "Wall Push-up.gif",
+        "tips": "Keep core engaged and maintain a straight body position. Move feet further from wall to increase difficulty.",
+        "progression_pathway": "Push"
+      },
+      {
+        "id": "push_2",
+        "name": "Knee Push-up",
+        "description": "Push-up performed with knees on the ground",
+        "progression_level": "2",
+        "category": "Upper Body",
+        "muscle_groups": ["Chest", "Triceps", "Shoulders"],
+        "equipment": "Bodyweight",
+        "instructions": [
+          "1. Start in a modified plank position with knees on the ground",
+          "2. Place hands slightly wider than shoulder-width apart",
+          "3. Lower chest toward the ground by bending elbows",
+          "4. Push back up to starting position",
+          "5. Maintain a straight line from head to knees throughout"
+        ],
+        "media": "Knee Push-up.gif",
+        "tips": "Keep elbows at a 45-degree angle from your body, not flared out to the sides. Focus on full range of motion.",
+        "progression_pathway": "Push"
+      },
+      {
+        "id": "push_3",
+        "name": "Push-up",
+        "description": "Standard push-up with full body weight on toes and hands",
+        "progression_level": "3",
+        "category": "Upper Body",
+        "muscle_groups": ["Chest", "Triceps", "Shoulders"],
+        "equipment": "Bodyweight",
+        "instructions": [
+          "1. Start in a plank position with hands slightly wider than shoulder-width",
+          "2. Keep body in a straight line from head to heels",
+          "3. Lower chest toward the ground by bending elbows",
+          "4. Push back up to starting position",
+          "5. Maintain core engagement throughout"
+        ],
+        "media": "Push-up.gif",
+        "tips": "Keep neck neutral by looking slightly ahead of your hands, not at the floor directly below. Engage glutes to maintain proper alignment.",
+        "progression_pathway": "Push"
+      },
+      {
+        "id": "push_4",
+        "name": "Diamond Push-up",
+        "description": "Push-up with hands close together forming a diamond shape",
+        "progression_level": "4",
+        "category": "Upper Body",
+        "muscle_groups": ["Chest", "Triceps", "Shoulders"],
+        "equipment": "Bodyweight",
+        "instructions": [
+          "1. Start in a plank position",
+          "2. Place hands close together with thumbs and index fingers touching to form a diamond shape",
+          "3. Lower chest toward your hands by bending elbows",
+          "4. Push back up to starting position",
+          "5. Keep elbows close to body throughout movement"
+        ],
+        "media": "Diamond Push-up.gif",
+        "tips": "This variation places greater emphasis on the triceps. Keep core tight to prevent sagging hips.",
+        "progression_pathway": "Push"
+      },
+      {
+        "id": "push_5",
+        "name": "Archer Push-up",
+        "description": "Push-up with one arm extended sideways while the other performs the movement",
+        "progression_level": "5",
+        "category": "Upper Body",
+        "muscle_groups": ["Chest", "Triceps", "Shoulders"],
+        "equipment": "Bodyweight",
+        "instructions": [
+          "1. Start in a push-up position with hands wider than normal",
+          "2. As you lower your body, bend one arm while extending the other arm straight out to the side",
+          "3. Push back up through the bent arm",
+          "4. Alternate sides with each repetition",
+          "5. Keep body in a straight line throughout"
+        ],
+        "media": "Archer Push-up.gif",
+        "tips": "This is a unilateral exercise that builds strength toward one-arm push-ups. Ensure the straight arm remains fully extended.",
+        "progression_pathway": "Push"
+      },
+      {
+        "id": "push_gym_1",
+        "name": "Chest Press Machine",
+        "description": "Pushing movement on a fixed-path lever machine",
+        "progression_level": "1",
+        "category": "Upper Body",
+        "muscle_groups": ["Chest", "Triceps", "Shoulders"],
+        "equipment": "Lever Chest Press Machine",
+        "instructions": [
+          "1. Adjust seat height so handles align with mid-chest",
+          "2. Grasp handles with a full grip",
+          "3. Push handles forward until arms are extended (not locked)",
+          "4. Slowly return to starting position with control",
+          "5. Maintain back contact with the pad throughout"
+        ],
+        "media": "logo.png",
+        "tips": "Focus on pushing through the chest muscles, not just the arms. Avoid arching your back during the movement.",
+        "progression_pathway": "Push (Gym)"
+      },
+      {
+        "id": "push_gym_2",
+        "name": "Dumbbell Bench Press",
+        "description": "Pressing dumbbells upward while lying on a bench",
+        "progression_level": "2",
+        "category": "Upper Body",
+        "muscle_groups": ["Chest", "Triceps", "Shoulders"],
+        "equipment": "Dumbbell",
+        "instructions": [
+          "1. Lie on a flat bench holding dumbbells at chest level",
+          "2. Position dumbbells at the sides of your chest with palms facing forward",
+          "3. Press dumbbells upward until arms are extended (not locked)",
+          "4. Lower weights with control back to starting position",
+          "5. Maintain feet flat on floor and natural arch in lower back"
+        ],
+        "media": "logo.png",
+        "tips": "Dumbbells allow for a greater range of motion than barbell. Lower the weights until you feel a stretch in your chest.",
+        "progression_pathway": "Push (Gym)"
+      },
+      {
+        "id": "push_gym_3",
+        "name": "Barbell Bench Press",
+        "description": "Pressing a barbell upward while lying on a bench",
+        "progression_level": "3",
+        "category": "Upper Body",
+        "muscle_groups": ["Chest", "Triceps", "Shoulders"],
+        "equipment": "Barbell",
+        "instructions": [
+          "1. Lie on a flat bench with feet flat on the floor",
+          "2. Grip the barbell slightly wider than shoulder-width",
+          "3. Unrack the bar and lower it to mid-chest level",
+          "4. Press the bar upward until arms are extended (not locked)",
+          "5. Control the bar back to the starting position"
+        ],
+        "media": "logo.png",
+        "tips": "Keep wrists straight and elbows at approximately 45-degree angles from your body. Use a spotter when lifting heavy.",
+        "progression_pathway": "Push (Gym)"
+      },
+      {
+        "id": "push_gym_4",
+        "name": "Incline Dumbbell Press",
+        "description": "Pressing dumbbells upward on an inclined bench",
+        "progression_level": "4",
+        "category": "Upper Body",
+        "muscle_groups": ["Chest", "Triceps", "Shoulders"],
+        "equipment": "Dumbbell",
+        "instructions": [
+          "1. Set bench to 30-45 degree incline",
+          "2. Sit with back against the bench, dumbbells at shoulder level",
+          "3. Press dumbbells upward until arms are extended (not locked)",
+          "4. Lower weights with control back to starting position",
+          "5. Maintain feet flat on floor and back against bench"
+        ],
+        "media": "logo.png",
+        "tips": "The incline shifts emphasis to the upper chest and front deltoids. Maintain control throughout the movement.",
+        "progression_pathway": "Push (Gym)"
+      },
+      {
+        "id": "push_gym_5",
+        "name": "Weighted Push-up",
+        "description": "Standard push-up with added weight on the back",
+        "progression_level": "5",
+        "category": "Upper Body",
+        "muscle_groups": ["Chest", "Triceps", "Shoulders"],
+        "equipment": "Weight Plate",
+        "instructions": [
+          "1. Have a training partner place a weight plate on your upper back",
+          "2. Assume standard push-up position",
+          "3. Lower chest toward the ground by bending elbows",
+          "4. Push back up to starting position",
+          "5. Maintain a straight line from head to heels throughout"
+        ],
+        "media": "logo.png",
+        "tips": "Start with lighter weights and progress gradually. A weight vest can be used as an alternative to plates.",
+        "progression_pathway": "Push (Gym)"
+      },
+      {
+        "id": "shoulders_1",
+        "name": "Pike Push-up",
+        "description": "Push-up with elevated hips creating an inverted V-shape",
+        "progression_level": "1",
+        "category": "Upper Body",
+        "muscle_groups": ["Shoulders", "Triceps", "Chest"],
+        "equipment": "Bodyweight",
+        "instructions": [
+          "1. Start in a downward dog position with hips raised high",
+          "2. Place hands shoulder-width apart",
+          "3. Bend elbows to lower head toward the floor",
+          "4. Push back up to starting position",
+          "5. Keep hips elevated throughout the movement"
+        ],
+        "media": "logo.png",
+        "tips": "The higher your hips, the more shoulder engagement. This exercise helps build toward handstand push-ups.",
+        "progression_pathway": "Press - Shoulders Focused (Gym)"
+      },
+      {
+        "id": "shoulders_2",
+        "name": "Dumbbell Shoulder Press",
+        "description": "Pressing dumbbells overhead from shoulder level",
+        "progression_level": "2",
+        "category": "Upper Body",
+        "muscle_groups": ["Shoulders", "Triceps"],
+        "equipment": "Dumbbell",
+        "instructions": [
+          "1. Sit or stand with dumbbells at shoulder level, palms facing forward",
+          "2. Press dumbbells overhead until arms are extended (not locked)",
+          "3. Lower weights with control back to shoulder level",
+          "4. Keep core engaged and avoid arching lower back",
+          "5. Repeat for desired repetitions"
+        ],
+        "media": "logo.png",
+        "tips": "If standing, maintain a slight bend in the knees and keep core tight. Avoid using momentum to lift the weights.",
+        "progression_pathway": "Press - Shoulders Focused (Gym)"
+      },
+      {
+        "id": "shoulders_3",
+        "name": "Barbell Shoulder Press",
+        "description": "Pressing a barbell overhead from shoulder level",
+        "progression_level": "3",
+        "category": "Upper Body",
+        "muscle_groups": ["Shoulders", "Triceps"],
+        "equipment": "Barbell",
+        "instructions": [
+          "1. Stand with feet shoulder-width apart",
+          "2. Hold barbell at shoulder level with hands slightly wider than shoulders",
+          "3. Press barbell overhead until arms are extended (not locked)",
+          "4. Lower bar with control back to shoulder level",
+          "5. Keep core engaged and maintain neutral spine"
+        ],
+        "media": "logo.png",
+        "tips": "Avoid leaning back to push the weight up. If mobility is limited, try seated variation or use a rack.",
+        "progression_pathway": "Press - Shoulders Focused (Gym)"
+      },
+      {
+        "id": "shoulders_4",
+        "name": "Arnold Press",
+        "description": "Dynamic shoulder press with rotation during the movement",
+        "progression_level": "4",
+        "category": "Upper Body",
+        "muscle_groups": ["Shoulders", "Triceps"],
+        "equipment": "Dumbbell",
+        "instructions": [
+          "1. Sit or stand with dumbbells at shoulder level, palms facing you",
+          "2. As you press up, rotate wrists so palms face forward at the top",
+          "3. Extend arms fully overhead (not locked)",
+          "4. Lower weights while rotating wrists back to starting position",
+          "5. Keep core engaged throughout movement"
+        ],
+        "media": "logo.png",
+        "tips": "The rotation increases deltoid activation. Start with lighter weights to master the technique.",
+        "progression_pathway": "Press - Shoulders Focused (Gym)"
+      },
+      {
+        "id": "shoulders_5",
+        "name": "Lateral Raise",
+        "description": "Raising dumbbells out to sides to target lateral deltoids",
+        "progression_level": "5",
+        "category": "Upper Body",
+        "muscle_groups": ["Shoulders"],
+        "equipment": "Dumbbell",
+        "instructions": [
+          "1. Stand with feet shoulder-width apart, dumbbells at sides",
+          "2. Slightly bend elbows and maintain this bend throughout",
+          "3. Raise arms out to sides until hands reach shoulder height",
+          "4. Briefly pause at the top",
+          "5. Lower weights with control to starting position"
+        ],
+        "media": "logo.png",
+        "tips": "Use lighter weights and focus on proper form. Avoid using momentum to swing the weights up.",
+        "progression_pathway": "Press - Shoulders Focused (Gym)"
+      },
+      {
+        "id": "pull_1",
+        "name": "Door Row",
+        "description": "Pulling exercise using a door, Smith machine, or TRX",
+        "progression_level": "1",
+        "category": "Upper Body",
+        "muscle_groups": ["Back", "Biceps", "Shoulders"],
+        "equipment": "Smith/TRX",
+        "instructions": [
+          "1. Set up TRX straps or position yourself at Smith machine bar",
+          "2. Grip the handles/bar and lean back with arms extended",
+          "3. Keep body straight from head to heels",
+          "4. Pull chest toward the handles/bar by bending elbows",
+          "5. Return to starting position with control"
+        ],
+        "media": "logo.png",
+        "tips": "The more horizontal your body, the more challenging the exercise. Keep core engaged throughout.",
+        "progression_pathway": "Pull"
+      },
+      {
+        "id": "pull_2",
+        "name": "Inverted Row",
+        "description": "Horizontal pulling exercise with body suspended under a bar",
+        "progression_level": "2",
+        "category": "Upper Body",
+        "muscle_groups": ["Back", "Biceps", "Shoulders"],
+        "equipment": "Smith/Barbell",
+        "instructions": [
+          "1. Position bar at waist to chest height",
+          "2. Hang underneath with arms extended and heels on floor",
+          "3. Keep body straight from head to heels",
+          "4. Pull chest up to the bar",
+          "5. Lower with control to starting position"
+        ],
+        "media": "logo.png",
+        "tips": "Elevating feet makes the exercise harder. Bending knees makes it easier. Squeeze shoulder blades together at the top.",
+        "progression_pathway": "Pull"
+      },
+      {
+        "id": "pull_3",
+        "name": "Chin-up",
+        "description": "Vertical pulling exercise with palms facing toward you",
+        "progression_level": "3",
+        "category": "Upper Body",
+        "muscle_groups": ["Back", "Biceps", "Shoulders"],
+        "equipment": "Pull-up Bar",
+        "instructions": [
+          "1. Hang from bar with palms facing toward you (supinated grip)",
+          "2. Arms fully extended, shoulders engaged",
+          "3. Pull body up until chin clears the bar",
+          "4. Lower with control to starting position",
+          "5. Avoid swinging or kicking for momentum"
+        ],
+        "media": "logo.png",
+        "tips": "Supinated grip engages biceps more than pronated grip. Keep core tight and avoid excessive arching.",
+        "progression_pathway": "Pull"
+      },
+      {
+        "id": "pull_4",
+        "name": "Pull-up",
+        "description": "Vertical pulling exercise with palms facing away from you",
+        "progression_level": "4",
+        "category": "Upper Body",
+        "muscle_groups": ["Back", "Biceps", "Shoulders"],
+        "equipment": "Pull-up Bar",
+        "instructions": [
+          "1. Hang from bar with palms facing away from you (pronated grip)",
+          "2. Arms fully extended, shoulders engaged",
+          "3. Pull body up until chin clears the bar",
+          "4. Lower with control to starting position",
+          "5. Maintain controlled movement throughout"
+        ],
+        "media": "logo.png",
+        "tips": "Pronated grip places more emphasis on the lats. Focus on pulling with your back, not just your arms.",
+        "progression_pathway": "Pull"
+      },
+      {
+        "id": "pull_5",
+        "name": "Archer Pull-up",
+        "description": "Unilateral pull-up with one arm extended sideways",
+        "progression_level": "5",
+        "category": "Upper Body",
+        "muscle_groups": ["Back", "Biceps", "Shoulders"],
+        "equipment": "Pull-up Bar",
+        "instructions": [
+          "1. Hang from bar with hands wider than shoulder-width",
+          "2. Pull up while shifting body weight to one side",
+          "3. Extend the opposite arm sideways as you pull up",
+          "4. Lower with control to starting position",
+          "5. Alternate sides with each repetition"
+        ],
+        "media": "logo.png",
+        "tips": "This variation builds strength toward one-arm pull-ups. Ensure the working arm pulls with maximum effort.",
+        "progression_pathway": "Pull"
+      },
+      {
+        "id": "pull_gym_1",
+        "name": "Lat Pulldown",
+        "description": "Machine exercise pulling a bar down to chest level",
+        "progression_level": "1",
+        "category": "Upper Body",
+        "muscle_groups": ["Back", "Biceps", "Shoulders"],
+        "equipment": "Cable Lat Pulldown Machine",
+        "instructions": [
+          "1. Sit at lat pulldown machine with thighs secured under pads",
+          "2. Grip the bar with hands wider than shoulder-width",
+          "3. Pull the bar down to upper chest level",
+          "4. Squeeze shoulder blades together at bottom position",
+          "5. Return bar with control to starting position"
+        ],
+        "media": "logo.png",
+        "tips": "Keep chest up and avoid leaning back excessively. Focus on pulling with your back muscles, not just arms.",
+        "progression_pathway": "Pull (Gym)"
+      },
+      {
+        "id": "pull_gym_2",
+        "name": "Seated Row",
+        "description": "Machine exercise pulling a handle toward abdomen",
+        "progression_level": "2",
+        "category": "Upper Body",
+        "muscle_groups": ["Back", "Biceps", "Shoulders"],
+        "equipment": "Cable Row Machine",
+        "instructions": [
+          "1. Sit at row machine with feet on platforms",
+          "2. Grasp handles with arms extended",
+          "3. Pull handles toward lower abdomen",
+          "4. Squeeze shoulder blades together at contracted position",
+          "5. Return to starting position with control"
+        ],
+        "media": "logo.png",
+        "tips": "Maintain upright posture, avoid rounding shoulders. Pull handles to your torso, not your torso to the handles.",
+        "progression_pathway": "Pull (Gym)"
+      },
+      {
+        "id": "pull_gym_3",
+        "name": "Assisted Pull-up",
+        "description": "Pull-up with machine assistance to reduce bodyweight",
+        "progression_level": "3",
+        "category": "Upper Body",
+        "muscle_groups": ["Back", "Biceps", "Shoulders"],
+        "equipment": "Assisted Pull-up Machine",
+        "instructions": [
+          "1. Adjust weight on assisted pull-up machine",
+          "2. Place knees or feet on platform",
+          "3. Grip bar with hands wider than shoulder-width",
+          "4. Pull up until chin clears the bar",
+          "5. Lower with control to starting position"
+        ],
+        "media": "logo.png",
+        "tips": "Gradually reduce assistance as strength improves. Focus on proper form rather than rushing repetitions.",
+        "progression_pathway": "Pull (Gym)"
+      },
+      {
+        "id": "pull_gym_4",
+        "name": "Weighted Pull-up",
+        "description": "Pull-up with additional weight attached",
+        "progression_level": "4",
+        "category": "Upper Body",
+        "muscle_groups": ["Back", "Biceps", "Shoulders"],
+        "equipment": "Pull-up Bar",
+        "instructions": [
+          "1. Attach weight belt with plate or hold dumbbell between feet",
+          "2. Grip pull-up bar with hands wider than shoulder-width",
+          "3. Pull up until chin clears the bar",
+          "4. Lower with control to starting position",
+          "5. Maintain proper form throughout"
+        ],
+        "media": "logo.png",
+        "tips": "Start with lighter weights and progress gradually. Ensure weight is secure before beginning the exercise.",
+        "progression_pathway": "Pull (Gym)"
+      },
+      {
+        "id": "pull_gym_5",
+        "name": "One-arm Pull-up",
+        "description": "Pull-up performed using a single arm",
+        "progression_level": "5",
+        "category": "Upper Body",
+        "muscle_groups": ["Back", "Biceps", "Shoulders"],
+        "equipment": "Pull-up Bar",
+        "instructions": [
+          "1. Grip pull-up bar with one hand",
+          "2. Keep other arm at side or hold wrist of working arm",
+          "3. Pull up until chin clears the bar",
+          "4. Lower with control to starting position",
+          "5. Complete all reps on one side before switching"
+        ],
+        "media": "logo.png",
+        "tips": "This is an extremely 4 movement. Use archer pull-ups and assisted one-arm variations to build up to this.",
+        "progression_pathway": "Pull (Gym)"
+      },
+      {
+        "id": "legs_1",
+        "name": "Box Squat",
+        "description": "Squat performed to a box or bench",
+        "progression_level": "1",
+        "category": "Lower Body",
+        "muscle_groups": ["Legs", "Glutes"],
+        "equipment": "Bench",
+        "instructions": [
+          "1. Stand in front of a bench with feet shoulder-width apart",
+          "2. Bend knees and hips to lower toward the bench",
+          "3. Lightly touch the bench with your glutes (don't fully sit)",
+          "4. Drive through heels to stand back up",
+          "5. Keep chest up throughout movement"
+        ],
+        "media": "logo.png",
+        "tips": "The box provides a depth target and builds confidence. Focus on control rather than speed.",
+        "progression_pathway": "Legs"
+      },
+      {
+        "id": "legs_2",
+        "name": "Bodyweight Squat",
+        "description": "Basic squat using only bodyweight resistance",
+        "progression_level": "2",
+        "category": "Lower Body",
+        "muscle_groups": ["Legs", "Glutes"],
+        "equipment": "Bodyweight",
+        "instructions": [
+          "1. Stand with feet shoulder-width apart",
+          "2. Bend knees and hips to lower into squat position",
+          "3. Lower until thighs are at least parallel to floor",
+          "4. Drive through heels to return to standing",
+          "5. Keep chest up and back straight throughout"
+        ],
+        "media": "bodyweight_squat.gif",
+        "tips": "Keep weight in heels and mid-foot, not toes. Aim to get thighs parallel to the ground or lower if mobility allows.",
+        "progression_pathway": "Legs"
+      },
+      {
+        "id": "legs_3",
+        "name": "Split Squat",
+        "description": "Single-leg focused squat with staggered stance",
+        "progression_level": "3",
+        "category": "Lower Body",
+        "muscle_groups": ["Legs", "Glutes"],
+        "equipment": "Bodyweight",
+        "instructions": [
+          "1. Take a long step forward into a staggered stance",
+          "2. Keep torso upright, core engaged",
+          "3. Bend both knees to lower your body",
+          "4. Front thigh should reach parallel to floor",
+          "5. Push through front heel to return to starting position"
+        ],
+        "media": "logo.png",
+        "tips": "Keep front knee aligned with foot, not caving inward. Both feet remain in contact with the floor throughout.",
+        "progression_pathway": "Legs"
+      },
+      {
+        "id": "legs_4",
+        "name": "Bulgarian Split Squat",
+        "description": "Single-leg squat with rear foot elevated",
+        "progression_level": "4",
+        "category": "Lower Body",
+        "muscle_groups": ["Legs", "Glutes"],
+        "equipment": "Bench",
+        "instructions": [
+          "1. Stand about 2 feet in front of a bench",
+          "2. Place top of rear foot on the bench behind you",
+          "3. Lower by bending front knee until thigh is parallel to floor",
+          "4. Keep torso upright, front knee aligned with foot",
+          "5. Push through front heel to return to starting position"
+        ],
+        "media": "logo.png",
+        "tips": "Focus on balance and control. Can be progressed by holding dumbbells for added resistance.",
+        "progression_pathway": "Legs"
+      },
+      {
+        "id": "legs_5",
+        "name": "Pistol Squat",
+        "description": "Single-leg squat with other leg extended forward",
+        "progression_level": "5",
+        "category": "Lower Body",
+        "muscle_groups": ["Legs", "Glutes"],
+        "equipment": "Bodyweight",
+        "instructions": [
+          "1. Stand on one leg, extend the other leg forward",
+          "2. Extend arms forward for counterbalance",
+          "3. Bend supporting knee to lower toward the floor",
+          "4. Keep extended leg off the floor throughout",
+          "5. Push through heel to return to standing position"
+        ],
+        "media": "logo.png",
+        "tips": "This requires significant strength, balance, and mobility. Practice with assistance (holding a post or TRX) before attempting freestanding.",
+        "progression_pathway": "Legs"
+      },
+      {
+        "id": "legs_gym_1",
+        "name": "Leg Press",
+        "description": "Pushing a weighted platform with legs while seated",
+        "progression_level": "1",
+        "category": "Lower Body",
+        "muscle_groups": ["Legs", "Glutes"],
+        "equipment": "45° Leg Press Machine",
+        "instructions": [
+          "1. Sit on leg press machine with back against pad",
+          "2. Place feet shoulder-width apart on platform",
+          "3. Release safety catches and lower platform by bending knees",
+          "4. Lower until knees form 90-degree angles",
+          "5. Push through heels to extend legs (don't lock knees)"
+        ],
+        "media": "logo.png",
+        "tips": "Avoid placing hands on knees during the movement. Don't lock out knees at the top of the movement.",
+        "progression_pathway": "Legs (Gym)"
+      },
+      {
+        "id": "legs_gym_2",
+        "name": "Goblet Squat",
+        "description": "Squat while holding dumbbell or kettlebell at chest",
+        "progression_level": "2",
+        "category": "Lower Body",
+        "muscle_groups": ["Legs", "Glutes"],
+        "equipment": "Dumbbell",
+        "instructions": [
+          "1. Hold dumbbell vertically against chest with both hands",
+          "2. Stand with feet shoulder-width apart",
+          "3. Bend knees and hips to lower into squat position",
+          "4. Keep chest up, elbows inside knees",
+          "5. Push through heels to return to standing"
+        ],
+        "media": "logo.png",
+        "tips": "The weight acts as a counterbalance, helping maintain proper form. Focus on depth and upright posture.",
+        "progression_pathway": "Legs (Gym)"
+      },
+      {
+        "id": "legs_gym_3",
+        "name": "Barbell Back Squat",
+        "description": "Squat with barbell across upper back/shoulders",
+        "progression_level": "3",
+        "category": "Lower Body",
+        "muscle_groups": ["Legs", "Glutes"],
+        "equipment": "Barbell",
+        "instructions": [
+          "1. Position barbell across upper back (not neck)",
+          "2. Stand with feet shoulder-width apart",
+          "3. Bend knees and hips to lower into squat position",
+          "4. Lower until thighs are parallel to floor or below",
+          "5. Drive through heels to return to standing"
+        ],
+        "media": "barbell_back_squat.gif",
+        "tips": "Keep chest up and core braced. Knees should track in line with toes. Use a squat rack for safety.",
+        "progression_pathway": "Legs (Gym)"
+      },
+      {
+        "id": "legs_gym_4",
+        "name": "Romanian Deadlift",
+        "description": "Hip-hinge movement with minimal knee bend",
+        "progression_level": "4",
+        "category": "Lower Body",
+        "muscle_groups": ["Legs", "Glutes"],
+        "equipment": "Barbell",
+        "instructions": [
+          "1. Hold barbell at hip level with overhand grip",
+          "2. Stand with feet hip-width apart",
+          "3. Hinge at hips to lower bar along legs",
+          "4. Keep back flat, slight bend in knees",
+          "5. Lower until feeling stretch in hamstrings, then return to standing"
+        ],
+        "media": "romanian_deadlift.gif",
+        "tips": "This is a hip hinge, not a squat. Focus on pushing hips back rather than bending knees. Keep bar close to legs throughout.",
+        "progression_pathway": "Legs (Gym)"
+      },
+      {
+        "id": "legs_gym_5",
+        "name": "Barbell Front Squat",
+        "description": "Squat with barbell held at front of shoulders",
+        "progression_level": "5",
+        "category": "Lower Body",
+        "muscle_groups": ["Legs", "Glutes"],
+        "equipment": "Barbell",
+        "instructions": [
+          "1. Position barbell across front of shoulders",
+          "2. Cross arms to secure bar or use clean grip",
+          "3. Stand with feet shoulder-width apart",
+          "4. Bend knees and hips to lower into squat position",
+          "5. Keep elbows high, torso upright throughout movement"
+        ],
+        "media": "barbell_front_squat.gif",
+        "tips": "Front position requires more core strength and upper back stability. Focus on keeping elbows high to prevent bar from rolling forward.",
+        "progression_pathway": "Legs (Gym)"
+      },
+      {
+        "id": "core_1",
+        "name": "Dead Bug",
+        "description": "Core stability exercise with opposing limb movement",
+        "progression_level": "1",
+        "category": "Core",
+        "muscle_groups": ["Abs"],
+        "equipment": "Bodyweight",
+        "instructions": [
+          "1. Lie on back with arms extended toward ceiling",
+          "2. Bring knees up to 90-degree angle",
+          "3. Extend one arm behind head while extending opposite leg",
+          "4. Return to starting position",
+          "5. Repeat with opposite arm and leg"
+        ],
+        "media": "dead_bug.gif",
+        "tips": "Keep lower back pressed into the floor throughout. Move slowly with control, focusing on stability.",
+        "progression_pathway": "Core"
+      },
+      {
+        "id": "core_2",
+        "name": "Plank",
+        "description": "Isometric core exercise in push-up position",
+        "progression_level": "2",
+        "category": "Core",
+        "muscle_groups": ["Abs"],
+        "equipment": "Bodyweight",
+        "instructions": [
+          "1. Start in forearm plank position, elbows under shoulders",
+          "2. Engage core and glutes to maintain straight line from head to heels",
+          "3. Keep neck neutral, looking at floor",
+          "4. Hold position for prescribed time",
+          "5. Avoid sagging hips or raising buttocks"
+        ],
+        "media": "plank.gif",
+        "tips": "Quality over quantity - focus on proper form. Breathe normally throughout the hold.",
+        "progression_pathway": "Core"
+      },
+      {
+        "id": "core_3",
+        "name": "Hanging Knee Raise",
+        "description": "Raising bent knees toward chest while hanging",
+        "progression_level": "3",
+        "category": "Core",
+        "muscle_groups": ["Abs"],
+        "equipment": "Pull-up Bar",
+        "instructions": [
+          "1. Hang from pull-up bar with arms fully extended",
+          "2. Engage core and avoid swinging",
+          "3. Bend knees and raise them toward chest",
+          "4. Hold briefly at top position",
+          "5. Lower legs with control to starting position"
+        ],
+        "media": "hanging_knee_raise.gif",
+        "tips": "Focus on using abs to lift knees, not hip flexors. Avoid swinging or using momentum.",
+        "progression_pathway": "Core"
+      },
+      {
+        "id": "core_4",
+        "name": "Hanging Leg Raise",
+        "description": "Raising straight legs while hanging",
+        "progression_level": "4",
+        "category": "Core",
+        "muscle_groups": ["Abs"],
+        "equipment": "Pull-up Bar",
+        "instructions": [
+          "1. Hang from pull-up bar with arms fully extended",
+          "2. Keep legs straight and together",
+          "3. Engage core to raise legs to parallel with floor or higher",
+          "4. Hold briefly at top position",
+          "5. Lower legs with control to starting position"
+        ],
+        "media": "hanging_leg_raise.gif",
+        "tips": "Maintain tension in the abs throughout the movement. Avoid swinging or using momentum.",
+        "progression_pathway": "Core"
+      },
+      {
+        "id": "core_5",
+        "name": "Toes-to-bar",
+        "description": "Raising straight legs to touch bar while hanging",
+        "progression_level": "5",
+        "category": "Core",
+        "muscle_groups": ["Abs"],
+        "equipment": "Pull-up Bar",
+        "instructions": [
+          "1. Hang from pull-up bar with arms fully extended",
+          "2. Initiate movement by engaging core and pulling shoulder blades down",
+          "3. Raise legs in arc motion until toes touch the bar",
+          "4. Control the descent back to starting position",
+          "5. Maintain tension throughout movement"
+        ],
+        "media": "toes_to_bar.gif",
+        "tips": "This requires significant core strength, grip endurance, and flexibility. Focus on controlled movement rather than momentum.",
+        "progression_pathway": "Core"
+      },
+      {
+        "id": "core_gym_1",
+        "name": "Cable Crunch",
+        "description": "Kneeling crunch with cable resistance",
+        "progression_level": "1",
+        "category": "Core",
+        "muscle_groups": ["Abs"],
+        "equipment": "Cable Machine",
+        "instructions": [
+          "1. Kneel facing cable machine with rope attachment",
+          "2. Hold rope behind head with both hands",
+          "3. Contract abs to curl torso down toward knees",
+          "4. Hold contracted position briefly",
+          "5. Return to starting position with control"
+        ],
+        "media": "cable_crunch.gif",
+        "tips": "Focus on curling the torso down using the abs, not pulling with the arms. Keep hips stationary throughout.",
+        "progression_pathway": "Core (Gym)"
+      },
+      {
+        "id": "core_gym_2",
+        "name": "Roman Chair Sit-up",
+        "description": "Sit-up performed on specialized bench with feet anchored",
+        "progression_level": "2",
+        "category": "Core",
+        "muscle_groups": ["Abs"],
+        "equipment": "Roman Chair",
+        "instructions": [
+          "1. Position yourself on Roman chair with feet secured",
+          "2. Cross arms over chest or place hands by ears",
+          "3. Lower torso back toward floor with control",
+          "4. Raise torso back up to starting position",
+          "5. Maintain controlled movement throughout"
+        ],
+        "media": "roman_chair_situp.gif",
+        "tips": "Adjust the bench angle to modify difficulty. Focus on using abs to lift, not hip flexors or momentum.",
+        "progression_pathway": "Core (Gym)"
+      },
+      {
+        "id": "core_gym_3",
+        "name": "Medicine Ball Russian Twist",
+        "description": "Seated rotation exercise with medicine ball",
+        "progression_level": "3",
+        "category": "Core",
+        "muscle_groups": ["Abs"],
+        "equipment": "Medicine Ball",
+        "instructions": [
+          "1. Sit on floor with knees bent, feet elevated slightly",
+          "2. Hold medicine ball with both hands at chest level",
+          "3. Lean back slightly to engage core",
+          "4. Rotate torso to touch ball to floor on one side",
+          "5. Rotate to opposite side in controlled motion"
+        ],
+        "media": "medicine_ball_russian_twist.gif",
+        "tips": "The further you lean back, the more challenging it becomes. Focus on rotating from the core, not just moving the arms.",
+        "progression_pathway": "Core (Gym)"
+      },
+      {
+        "id": "core_gym_4",
+        "name": "Ab Wheel Rollout",
+        "description": "Rolling wheel device forward while maintaining core stability",
+        "progression_level": "4",
+        "category": "Core",
+        "muscle_groups": ["Abs"],
+        "equipment": "Ab Wheel",
+        "instructions": [
+          "1. Kneel on floor with ab wheel in front of knees",
+          "2. Grasp handles with both hands",
+          "3. Roll wheel forward while extending body",
+          "4. Extend as far as possible while maintaining flat back",
+          "5. Use core strength to pull wheel back to starting position"
+        ],
+        "media": "ab_wheel_rollout.gif",
+        "tips": "Start with small ranges of motion and gradually increase as strength improves. Keep core engaged throughout to protect lower back.",
+        "progression_pathway": "Core (Gym)"
+      },
+      {
+        "id": "core_gym_5",
+        "name": "Weighted Plank",
+        "description": "Standard plank with added weight on back",
+        "progression_level": "5",
+        "category": "Core",
+        "muscle_groups": ["Abs"],
+        "equipment": "Weight Plate",
+        "instructions": [
+          "1. Have a training partner place weight plate on middle of back",
+          "2. Assume forearm plank position, elbows under shoulders",
+          "3. Maintain straight line from head to heels",
+          "4. Engage core and glutes throughout hold",
+          "5. Hold position for prescribed time"
+        ],
+        "media": "weighted_plank.gif",
+        "tips": "Start with lighter weights and progress gradually. Ensure weight is centered and stable before beginning the hold.",
+        "progression_pathway": "Core (Gym)"
+      }
+    ]
+  }
+  
+  

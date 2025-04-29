@@ -1,0 +1,12 @@
+[    
+    {"_comment": "This is temporary data to be expanded when the app grows"},
+    {"value": "Push", "label": "Push - Bodyweight"},
+    {"value": "Push (Gym)", "label": "Push - Gym Equipment"},
+    {"value": "Press - Shoulders Focused (Gym)", "label": "Press - Shoulders Focused (Gym)"},
+    {"value": "Pull", "label": "Pull - Bodyweight"},
+    {"value": "Pull (Gym)", "label": "Pull - Gym Equipment"},
+    {"value": "Legs", "label": "Legs - Bodyweight"},
+    {"value": "Legs (Gym)", "label": "Legs - Gym Equipment"},
+    {"value": "Core", "label": "Core - Bodyweight"},
+    {"value": "Core (Gym)", "label": "Core - Gym Equipment"},
+]

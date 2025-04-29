@@ -1,0 +1,43 @@
+{
+  "3": {
+    "user_id": 3,
+    "username": "kk",
+    "password_hash": "a320480f534776bddb5cdb54b1e93d210a3c7d199e80a23c1b2178497b184c76",
+    "progression_level": "5",
+    "training_goal": "General Fitness",
+    "equipment": []
+  },
+  "4": {
+    "user_id": 4,
+    "username": "leo",
+    "password_hash": "96cae35ce8a9b0244178bf28e4966c2ce1b8385723a96a6b838858cdd6ca0a1e",
+    "progression_level": "Expert",
+    "training_goal": "General Fitness",
+    "equipment": []
+  },
+  "5": {
+    "user_id": 5,
+    "username": "kkk",
+    "password_hash": "96cae35ce8a9b0244178bf28e4966c2ce1b8385723a96a6b838858cdd6ca0a1e",
+    "progression_level": "2",
+    "training_goal": "General Fitness",
+    "equipment": [
+      "Bench"
+    ]
+  },
+  "6": {
+    "user_id": 6,
+    "username": "kkk",
+    "password_hash": "96cae35ce8a9b0244178bf28e4966c2ce1b8385723a96a6b838858cdd6ca0a1e",
+    "progression_level": "1",
+    "training_goal": "Maintaining/Bulking",
+    "equipment": [
+      "Bench",
+      "Pull-up Bar",
+      "Barbell",
+      "Smith/Barbell",
+      "Smith/TRX",
+      "Cable Lat Pulldown Machine"
+    ]
+  }
+}
