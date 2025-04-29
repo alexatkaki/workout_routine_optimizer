@@ -29,7 +29,7 @@ workout_routine_optimizer
   * workout_history.json
 * uth.py
 * constants.py
-* ata_structures.py
+* data_structures.py
 * main.py
 * README.md
 * requirements.txt
@@ -50,9 +50,13 @@ cd workout_routine_optimizer
 
 2. Create and activate a virtual environment: 
 
-```python3 -m venv venv```
+```
+python3 -m venv venv
+```
 
-```source venv/bin/activate``` 
+```
+source venv/bin/activate
+``` 
 
 Or on Windows
 ```
