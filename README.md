@@ -17,48 +17,60 @@ Workout Routine Optimizer helps users create customized workout routines based o
 
 ## Folder Structure
 
-workout_routine_optimizer/
-├── pycache/
-├── assets/
-│   ├── images/
-│   │   └── Wall Push-up.gif # multiple exercise media in png/ gif
-│   └── logo.png
-├── data/
-│   ├── exercises.json
-│   ├── motivational_quote.json
-│   ├── progression_map.json
-│   ├── users.json
-│   └── workout_history.json
-├── auth.py
-├── constants.py
-├── data_structures.py
-├── main.py
-├── README.md
-├── requirements.txt
-├── ui.py
-└── workout.py
+workout_routine_optimizer
+* assets
+  * images
+  * logo.png
+* data
+  * exercises.json
+  * motivational_quote.json
+  * progression_map.json
+  * users.json
+  * workout_history.json
+* uth.py
+* constants.py
+* ata_structures.py
+* main.py
+* README.md
+* requirements.txt
+* ui.py
+* workout.py
 
 
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/alexatkaki/workout_routine_optimizer.git
+```sh
+git clone https://github.com/alexatkaki/workout_routine_optimizer.git 
+```
+
+```
 cd workout_routine_optimizer
+```
 
-3. Create and activate a virtual environment:
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+2. Create and activate a virtual environment: 
 
-4. Install the required packages:
+```python3 -m venv venv```
 
+```source venv/bin/activate``` 
+
+Or on Windows
+```
+venv\Scripts\activate
+``` 
+
+3. Install the required packages:
+
+```
 pip install -r requirements.txt
+```
 
 ## Usage
 
 1. Run the application:
-
+```
 streamlit run main.py
-
+```
 
 2. Open your web browser and navigate to the URL displayed in the terminal (typically http://localhost:8501)
 
